@@ -1,3 +1,6 @@
+## About Me
+
+Hi there! 👋 I'm Reza Hosseini, a passionate backend developer with 3 years of experience in Python and Django. I love building robust, scalable, and efficient web applications that solve real-world problems. My journey in software development has been fueled by a constant desire to learn and grow, and I'm always excited to take on new challenges.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rezahosseini65) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hosseini.reza65@gmail.com) 
